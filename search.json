@@ -1,7 +1,7 @@
 [
   {
-    "objectID": "slides.html#heres-a-slide",
-    "href": "slides.html#heres-a-slide",
+    "objectID": "slides/slides.html#heres-a-slide",
+    "href": "slides/slides.html#heres-a-slide",
     "title": "Untitled",
     "section": "Here’s a slide",
     "text": "Here’s a slide"
@@ -21,8 +21,8 @@
     "text": "Testing branding in subdirectories\n\nslides-root-directory\nslides-sub-directory"
   },
   {
-    "objectID": "slides/slides.html#heres-a-slide",
-    "href": "slides/slides.html#heres-a-slide",
+    "objectID": "slides.html#heres-a-slide",
+    "href": "slides.html#heres-a-slide",
     "title": "Untitled",
     "section": "Here’s a slide",
     "text": "Here’s a slide"
